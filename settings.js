@@ -2,13 +2,13 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "254743982206"
+global.ownernomer = "233591856630"
 global.ownername = "BRUCE BERA👑"
 global.ytname = "YT: BERA_TECH"
 global.socialm = "GitHub: berabotsmd"
 global.location = "Kenya, kitale"
 
-global.ownernumber = '254743982206'  //creator number
+global.ownernumber = '233591856630'  //creator number
 global.ownername = 'BRUCE BERA👑' //owner name
 global.botname = '🄰🄻🄿🄷🄰-🄱🅄🄶' //name of the bot
 
@@ -24,12 +24,12 @@ global.wm = "🄰🄻🄿🄷🄰-🄱🅄🄶."
 global.link = 'https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = [ ]
 
 //false=disable and true=enable
-global.autoRecording = true //auto recording
+global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = false //auto typing + recording
+global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
 global.anti92 = false //auto block +92 
@@ -40,7 +40,7 @@ global.autoswview = true //auto view status/story
 //v2 is link + image menu,
 //v3 is video menu,
 //v4 is call end menu
-global.typemenu = 'v1'
+global.typemenu = 'v3'
 
 //text bug
 global.xbugtex = {
